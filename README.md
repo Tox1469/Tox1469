@@ -109,7 +109,7 @@ tox@dev:~$ cat stats.txt
 ```
   7+     anos shipando código
   8      apps em produção
-  22     pacotes open-source publicados
+  200+   pacotes open-source publicados
   200+   endpoints de API construídos
   100+   migrações de banco
   50+    agentes IA em produção
