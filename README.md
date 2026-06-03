@@ -16,6 +16,14 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-tox--portfolio.vercel.app-22c55e?style=flat-square&logo=vercel&logoColor=white&labelColor=0a0a0a)](https://tox-portfolio.vercel.app)
 [![Stack](https://img.shields.io/badge/stack-TypeScript%20·%20Next.js%20·%20Supabase-22c55e?style=flat-square&labelColor=0a0a0a)](#)
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
@@ -124,22 +132,6 @@ tox@dev:~$ cat stats.txt
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tox1469&layout=compact&theme=dark&bg_color=0a0a0a&border_color=1a1a1a&title_color=22c55e&text_color=d4d4d8&hide_border=false&langs_count=8" height="165" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tox1469&theme=dark&background=0a0a0a&border=1a1a1a&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=d4d4d8&dates=525252" height="165" />
-
-<br><br>
-
-</div>
-
-```bash
-tox@dev:~$ cat contributions.svg
-```
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake.svg" />
-</picture>
 
 <br><br>
 
