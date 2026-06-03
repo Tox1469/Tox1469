@@ -1,5 +1,11 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake.svg" />
+</picture>
+
 ```
 ████████╗ ██████╗ ██╗  ██╗
 ╚══██╔══╝██╔═══██╗╚██╗██╔╝
@@ -15,14 +21,6 @@
 
 [![Portfolio](https://img.shields.io/badge/portfolio-tox--portfolio.vercel.app-22c55e?style=flat-square&logo=vercel&logoColor=white&labelColor=0a0a0a)](https://tox-portfolio.vercel.app)
 [![Stack](https://img.shields.io/badge/stack-TypeScript%20·%20Next.js%20·%20Supabase-22c55e?style=flat-square&labelColor=0a0a0a)](#)
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake.svg" />
-</picture>
 
 </div>
 
