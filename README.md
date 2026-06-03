@@ -1,11 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake.svg" />
-</picture>
-
 ```
 ████████╗ ██████╗ ██╗  ██╗
 ╚══██╔══╝██╔═══██╗╚██╗██╔╝
@@ -130,6 +124,14 @@ tox@dev:~$ cat stats.txt
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tox1469&layout=compact&theme=dark&bg_color=0a0a0a&border_color=1a1a1a&title_color=22c55e&text_color=d4d4d8&hide_border=false&langs_count=8" height="165" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tox1469&theme=dark&background=0a0a0a&border=1a1a1a&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=d4d4d8&dates=525252" height="165" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tox1469/Tox1469/output/github-snake.svg" />
+</picture>
 
 <br><br>
 
