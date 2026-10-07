@@ -9,11 +9,11 @@
    ╚═╝    ╚═════╝ ╚═╝  ╚═╝
 ```
 
-**full-stack & security engineer · 7 anos · brasil**
+**fundador da [ToxDev](https://tox.dev.br) · cibersegurança e construção de sistemas · brasil**
 
 *building things that ship — sem template, sem atalho*
 
-[![Portfolio](https://img.shields.io/badge/portfolio-tox--portfolio.vercel.app-22c55e?style=flat-square&logo=vercel&logoColor=white&labelColor=0a0a0a)](https://tox-portfolio.vercel.app)
+[![Site](https://img.shields.io/badge/site-tox.dev.br-22c55e?style=flat-square&labelColor=0a0a0a)](https://tox.dev.br)
 [![Stack](https://img.shields.io/badge/stack-TypeScript%20·%20Next.js%20·%20Supabase-22c55e?style=flat-square&labelColor=0a0a0a)](#)
 
 </div>
@@ -24,9 +24,11 @@
 tox@dev:~$ whoami
 ```
 
+Fundador da [ToxDev](https://tox.dev.br): cibersegurança e construção de sistemas para empresas. Pentest, hardening, adequação à LGPD e segurança de IA, e sistemas que já nascem seguros.
+
 Engenheiro full-stack e de segurança. Construo SaaS multi-tenant em produção, faço pentesting pra instituições financeiras e varejo, e publico ferramentas open-source que uso no meu próprio stack.
 
-Tudo que você vê aqui foi construído do zero — sem template, sem boilerplate comprado.
+Tudo que você vê aqui foi construído do zero, sem template e sem boilerplate comprado.
 
 ```bash
 tox@dev:~$ cat stack.json
@@ -62,35 +64,10 @@ tox@dev:~$ ls ./production
 tox@dev:~$ ls ./open-source
 ```
 
-**security & infra**
-- [`next-security-headers`](https://github.com/Tox1469/next-security-headers) — CSP, HSTS, X-Frame middleware pra Next.js
-- [`ai-prompt-guard`](https://github.com/Tox1469/ai-prompt-guard) — proteção contra prompt injection em apps de IA
-- [`owasp-scanner`](https://github.com/Tox1469/owasp-scanner) — scanner estático OWASP Top 10
-- [`webhook-shield`](https://github.com/Tox1469/webhook-shield) — valida assinatura de webhooks (Stripe, GitHub, Twilio)
-- [`next-rbac`](https://github.com/Tox1469/next-rbac) — RBAC pro Next.js com gates e hooks
-- [`api-key-manager`](https://github.com/Tox1469/api-key-manager) — gera, valida e rotaciona API keys
-- [`supabase-rls-generator`](https://github.com/Tox1469/supabase-rls-generator) — gera RLS policies a partir de config
-- [`supabase-multitenant-utils`](https://github.com/Tox1469/supabase-multitenant-utils) — helpers de multi-tenancy pra Supabase
-- [`lgpd-consent`](https://github.com/Tox1469/lgpd-consent) — banner de consentimento LGPD + audit log
-
-**dev tools**
-- [`env-guardian`](https://github.com/Tox1469/env-guardian) — valida .env contra .env.example antes do deploy
-- [`csv-to-migration`](https://github.com/Tox1469/csv-to-migration) — converte CSV em SQL migration
-- [`db-seeder`](https://github.com/Tox1469/db-seeder) — seeder Postgres com fake data brasileiro (CPF/CNPJ)
-- [`markdown-to-docx`](https://github.com/Tox1469/markdown-to-docx) — converte Markdown em Word
-- [`next-api-builder`](https://github.com/Tox1469/next-api-builder) — API routes tipadas com Zod
-
-**backend & infra**
-- [`sse-stream-kit`](https://github.com/Tox1469/sse-stream-kit) — kit de Server-Sent Events com hook `useSSE`
-- [`cron-serverless`](https://github.com/Tox1469/cron-serverless) — scheduler de cron pra Vercel
-- [`redis-cache-layer`](https://github.com/Tox1469/redis-cache-layer) — camada de cache Redis com TTL e tags
-- [`embed-search`](https://github.com/Tox1469/embed-search) — busca semântica com pgvector + OpenAI
-
-**ui & integrations**
-- [`react-chat-ui`](https://github.com/Tox1469/react-chat-ui) — componentes de chat pra React
-- [`twilio-whatsapp-bot`](https://github.com/Tox1469/twilio-whatsapp-bot) — framework de bot WhatsApp
-- [`social-poster`](https://github.com/Tox1469/social-poster) — poster multi-plataforma
-- [`pixel-analytics`](https://github.com/Tox1469/pixel-analytics) — analytics privacy-first e cookieless
+| Projeto | O que faz |
+|---------|-----------|
+| [**ai-prompt-guard**](https://github.com/Tox1469/ai-prompt-guard) | Detecção de prompt injection em 8 camadas, PT e EN, com bloqueio progressivo de quem insiste. Extraído do guard que roda em produção, 58 testes, zero dependências |
+| [**ficha-aberta**](https://github.com/Tox1469/ficha-aberta) | Todos os candidatos de 2020 a 2026 cruzados por CPF com o que TSE, TCU e CGU já registraram. Dados oficiais, código aberto · [site](https://tox1469.github.io/ficha-aberta/) |
 
 ```bash
 tox@dev:~$ cat security.log
@@ -109,11 +86,9 @@ tox@dev:~$ cat stats.txt
 ```
   7+     anos shipando código
   8      apps em produção
-  200+   pacotes open-source publicados
   200+   endpoints de API construídos
   100+   migrações de banco
   50+    agentes IA em produção
-  0      templates usados
 ```
 
 ---
